@@ -44,12 +44,11 @@ Produce a scoreboard presenting an overall view of access to drinking water worl
 </ul>
 
 ## First page
+![DWFA first page](https://github.com/zuttokan/POWER_BI_DWFA/assets/100352779/1a1ef5c8-ce8e-4f53-8ed5-0c097d0ad0ae)
 
 ## Global efforts
+![dwfa vue mondiale](https://github.com/zuttokan/POWER_BI_DWFA/assets/100352779/b76523eb-6930-478f-9f53-ce8a6253b0c1)
 
 ## National efforts
-
-
-## Page de connection et inscription
-![connexiongroupo](https://user-images.githubusercontent.com/100352779/189333971-4b95eab9-a5cd-4cc1-9eff-53c21e0a2980.jpg)
+![dwfa vue National](https://github.com/zuttokan/POWER_BI_DWFA/assets/100352779/ad8f3995-201d-4866-aff5-cf33147e35ca)
 
