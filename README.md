@@ -9,83 +9,37 @@
 - <a  href="https://www.microsoft.com/fr/microsoft-365/powerpoint"  title="Power_Point"><img  src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office-powerpoint.svg"  alt="Power Point"  width="25px"  height="21px">Power Point</a>
 
 
-### Visionner la video du projet
+## DWFA presents 3 areas of expertise:
 
-https://youtu.be/yceB1LkwV_s
+1_ Creation of drinking water access services;
+2_ Upgrading existing water access services;
+3_ Consulting with administrations/governments on water access policies.
 
-## Backend
 
-### Cloner le repository:
+## Objectives:
 
-- Faites un git clone ou téléchargez la version Zip
+Produce a scoreboard presenting an overall view of access to drinking water worldwide. This will allow to choose the country to target as soon as the donor has given his answer on the area of expertise he wants to finance.
 
-```
-Git clone https://github.com/zuttokan/Groupomania
-```
-
-### Lancer le serveur:
-
-- Depuis votre terminal ouvrez une ligne de commande :
-
-```
-cd backend (Dirige dans le bon dossier)
-npm install (Permet d'installer toutes les dépendences)
-node server (Lance le serveur)
-```
-
-### Créer à la racine du backend un fichier .env contenant les variables suivantes :
-
-SECRET_DB = (informations de votre base de données)
-
-PORT = (Le port ou votre serveur sera hébérgé)
-
-TOKEN_SECRET = ( Votre clé secret de décodage du Token)
-
-isAdmin = (l'adresse mail spécifique au compte administrateur)
-
-## Frontend
-
-### Démarrer le front:
-
-- Depuis votre terminal ouvrez une ligne de commande :
-
-```
-cd frontend (Dirige dans le bon dossier)
-npm install (Permet d'installer toutes les dépendences)
-ng serve (Lance le front)
-
-```
-
-### Pour accéder à l'interface du site:
-
-- Ouvrir le navigateur a l'adresse http://localhost:4200/
-
-### Fonctionnalités utilisateurs:
+### User features:
 
 <ul>
-  <li>Inscription ou connexion via l'email avec un mot de passe.</li>
-  <li>Partager des posts contenant du texte et une image.</li>
-  <li>L'affichage des posts se fait de magniére antéchronologique.</li>
-  <li>Chaque post contient sont datage de création ainsi que le mail de sont créateur.</li>
-  <li>Chaque utilisateur à la possibilité de modifier ou supprimer ses propres posts.</li>
-  <li>Il est possible de liker un post (ou de le retirer).</li>
+  <li>Visualization of countries lacking secure water resources.</li>
+  <li>Visualization of countries with secure water resources.</li>
+  <li>Rural and  Urban population.</li>
+  <li>Political stability filter.</li>
 </ul>
 
-- Un compte Administrateur est présent afin de faire de la modération.
-  Il a la possibilité de modifier ou de supprimer les posts utilisateurs, ainsi qu'en créer si necéssaire.
-
-### Fonctionnalités techniques:
+### Technical features:
 
 <ul>
 <li>La session de l’utilisateur persiste durant sa connection.</li>
 <li>Les données de connexion sont sécurisées.</li>
 </ul>
 
-### Identité graphique:
+### Graphic identity:
 
 <ul>
-<li>La police d'éciture est Lato</li>
-<li>La palette de couleur principale utiliser est :Primaire : #FD2D01 / Secondaire : #FFD7D7 /Tertiaire : #4E5166
+<li>The main color palette use is : #2962ff
 </li>
 </ul>
 
