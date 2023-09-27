@@ -32,8 +32,8 @@ Produce a scoreboard presenting an overall view of access to drinking water worl
 ### Technical features:
 
 <ul>
-<li>La session de l’utilisateur persiste durant sa connection.</li>
-<li>Les données de connexion sont sécurisées.</li>
+<li>Setting up a user dashboard.</li>
+<li>The visualizations are dinamic.</li>
 </ul>
 
 ### Graphic identity:
